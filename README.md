@@ -57,7 +57,7 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
 If you have any questions or suggestions about the project, feel free to contact me:
